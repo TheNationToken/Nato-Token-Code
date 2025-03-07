@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://thenationtoken.com/wp-content/uploads/2025/02/The-Nation-Token-GIF.webp" alt="The Nation Token GIF" width="200" style="border-radius: 50%;">
+</div><br>
 // All Rights Reserved To TheNationToken.com
 
 pragma solidity 0.8.17;
