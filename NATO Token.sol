@@ -1,4 +1,3 @@
-
 // All Rights Reserved To TheNationToken.com
 
 pragma solidity 0.8.17;
