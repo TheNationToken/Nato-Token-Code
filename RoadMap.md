@@ -39,6 +39,8 @@
 - **Social Media**:  
   - Twitter (X): [https://x.com/NationToken](https://x.com/NationToken)  
   - Telegram: [https://t.me/NationToken](https://t.me/NationToken)
+  - Youtube: [https://www.youtube.com/@NatoTok3n](https://https://www.youtube.com/@NatoTok3n)
+  - Github: [https://github.com/TheNationToken/](https://github.com/TheNationToken/)
 
 ---
 
