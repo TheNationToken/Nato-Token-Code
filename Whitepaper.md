@@ -1,5 +1,6 @@
-<img src="https://thenationtoken.com/wp-content/uploads/2025/02/The-Nation-Token-GIF.webp" alt="The Nation Token GIF" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; align-content:center">
-<br>
+<div align="center">
+  <img src="https://thenationtoken.com/wp-content/uploads/2025/02/The-Nation-Token-GIF.webp" alt="The Nation Token GIF" width="200" style="border-radius: 50%;">
+</div><br>
 The Nation Token (NATO)
 
 Introduction
