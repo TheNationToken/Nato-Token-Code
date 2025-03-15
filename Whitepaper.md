@@ -64,20 +64,20 @@ The total supply of 1,000,000,000,000 NATO will be distributed as follows:
 ---
 
 ## Roadmap
-### Phase 1: Token Creation and Airdrop (Q4 2023 - Q1 2024)
+### Phase 1: Token Creation and Airdrop (Q4 2024 - Q1 2025)
 - **Smart Contract Deployment**: Launch and audit the NATO token smart contract on the Base Network.  
 - **Liquidity Pool Creation**: Allocate 12% of the total supply (120,000,000,000 NATO) to create the liquidity pool on a decentralized exchange with an initial pairing of $5,000 worth of ETH.  
 - **Airdrop Distribution**: Distribute 74% of NATO tokens (740,000,000,000) to 1,000,000 active Base Network addresses.  
 - **Community Onboarding**: Launch educational resources to help users understand how to claim and use their NATO tokens.
 
-### Phase 2: Community Engagement and Growth (Q2 2024 - Q4 2024)
+### Phase 2: Community Engagement and Growth (Q2 2025 - Q4 2025)
 - **Awareness Campaign**: Launch global campaigns to raise awareness about NATO and its decentralized ethos.  
 - **Community Rewards**: Implement reward programs, distributing 8% of the tokens (80,000,000,000) to incentivize active community participation.  
 - **Governance Establishment**: Introduce mechanisms for community decision-making, such as proposals and voting.  
 - **Education**: Provide resources to educate participants about using decentralized exchanges, wallets, and participating in governance.  
 - **Partnerships**: Collaborate with other DeFi projects, wallets, and exchanges to increase NATO's visibility and utility.
 
-### Phase 3: Long-term Growth and Sustainability (2025 - 2030)
+### Phase 3: Long-term Growth and Sustainability (2026 - 2030)
 - **Liquidity Pool Lock Period**: The 12% (120,000,000,000) token allocation for liquidity will remain locked until **1/1/2030**.  
 - **Organic Development**: Encourage the community to create utilities, such as decentralized applications (dApps), payment solutions, or additional liquidity pools.  
 - **Global Expansion**: Promote NATO’s adoption across diverse regions and demographics, focusing on financial inclusion and accessibility.  
